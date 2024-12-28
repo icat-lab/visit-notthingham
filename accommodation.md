@@ -9,6 +9,7 @@
 
 * [新入生向けの住居関連情報提供ページ](https://www.nottingham.ac.uk/student-living/accommodation/index.aspx)
   * こちらに問い合わせ窓口などの情報があるから、こちらを掘ってみるかなぁ、、、。
+* [Accommodation services](https://www.nottingham.ac.uk/studentservices/services/accommodation.aspx)
 
 ### [Accommodation Services](https://www.nottingham.ac.uk/student-living/contact.aspx)
  
@@ -25,3 +26,9 @@
 [Accommodation Services](https://outlook.office365.com/book/AccommodationServices@UniofNottm.onmicrosoft.com/)
 > *Please do not book a teams meeting with a Gmail account as we are experiencing issues with these email addresses receiving invites*
 
+# 大学構内の生活情報
+* [Staying safe and responsible](https://www.nottingham.ac.uk/student-living/accommodation/staying-safe-and-responsible.aspx)
+  * Phone: 0115 748 7600 for Welcome Point and Residential Experience
+  * Phone: 0115 951 3557 (extension 13557) for Security Reception
+  * Phone: 0115 951 3013 (ext 13013 internally) for 24 Hour Security Control
+  * Phone: 0115 951 8888 (ext 18888 internally) for Emergencies ONLY
