@@ -1,34 +1,133 @@
 # 住居関連
-## 大学に便利な立地情報
-* [Getting around](https://www.nottingham.ac.uk/student-living/accommodation/getting-around.aspx)
+## 概要
+在外研究という立場で渡航する場合、誰しもが苦労するのが住居探し。学生という身分であれば、多くの海外の大学はキャンパス内のドミトリーを提供してくれるでしょうし、大学周辺には学生向けの住居が沢山あるはずです。Nottinghamは大学の街なので、街中の至る所にStudent Residents/ 学生用の住居があります、というよりもちょっと大きな集合住宅の大半がStudent residentsです。また雇用関係があって赴任する場合は、教職員向けの福利厚生として住居の斡旋をしてくれます。しかし、訪問◯◯とかAssociate □□という立場の場合、学生用住居には住めず、教職員向けのサービスも受けられず、、、と、孤軍奮闘することになります。しかも、事前に大学周辺の土地勘がないまま、長期間居住前提の生活基盤を整えなければならないわけで、これは本当に大変。そのハンデをどうやって乗り越えるか、がポイントとなります。
+土地勘が無い以上に課題となるのが、現地国の不動産契約の慣習を知らないこと。これがものすごくハンデとなります。不動産を購入したいわけでなく、1年とか、数ヶ月とか賃借したいだけですよね。でもこれが難しい。日本でも、住民票がないと物件借りれないということはよくありますが、当然英国でもそうなります。英国の場合は日本よりも厳格?かもしれなくて、Home Officeから後述する "Share code" という不動産契約に必要な番号の発行を受けなければなりません。これは当然ビザと紐づいてます。などなど様々な知識やノウハウが必要です。
+ですので、最初数週間から数ヶ月、ウィークリーやマンスリー契約でAirBnBの物件に住む、という選択肢が浮かび上がってきます。最悪エアビー使えばよい、というのは心理的にかなり楽ですが、それでもそのうちに不動産賃貸契約をしたいと思うことになるはずなので、、、
 
 ## 大学提供の情報・サービス
 * [勤務者向けの住居関連情報提供ページ](https://www.nottingham.ac.uk/jobs/moving-to-nottingham/accommodation.aspx)
+* [International Applicants \- The University of Nottingham](https://www.nottingham.ac.uk/jobs/moving-to-nottingham/international-applicants/international-applicants.aspx)
+  * こちらは、University of Nottinghamに勤務される方が対象のページです。訪問研究者やサバティカルでの滞在者向けの情報はありません。
+  * ただし、Nottinghamの大学は、訪問研究者やサバティカルでの滞在者向けの住居斡旋サービスを提供していないわけではありません。上記ページにあるように、[Accommodation Services](https://www.nottingham.ac.uk/student-living/contact.aspx)に連絡すれば、住居探しを手伝ってくれます。
+* [雇用者向けの福利厚生情報ページ](https://www.nottingham.ac.uk/hr/aboutus/hr-employment-shared-services/hr-international-employment-services.aspx)
+* [Healthcare \- The University of Nottingham](https://www.nottingham.ac.uk/jobs/moving-to-nottingham/international-applicants/healthcare.aspx)
+* [Finance \- The University of Nottingham](https://www.nottingham.ac.uk/jobs/moving-to-nottingham/international-applicants/finance.aspx)
+  * こういうページはあります。
   * We have guest/visitor accommodation located on the Jubilee campus and at Eviton House on our Sutton Bonington campus.  These studios and flats are available for rental for a minimum period of one month and a maximum of three months, and all are fully furnished with self-catering facilities.
-  * とあるので、最大3ヶ月間キャンパス内の滞在施設にお世話になれるみたいだけれど、、、
+  * とあるので、最大3ヶ月間キャンパス内の滞在施設にお世話になれるみたいですが、基本的には有給雇用の新任研究者/教員向けのサービスと思われるので、無休サバティカルの場合は、基本的に関係ないと考えておくべきでしょう。
 
 * [新入生向けの住居関連情報提供ページ](https://www.nottingham.ac.uk/student-living/accommodation/index.aspx)
-  * こちらに問い合わせ窓口などの情報があるから、こちらを掘ってみるかなぁ、、、。
+* [Accommodation Services](https://www.nottingham.ac.uk/student-living/contact.aspx)
 * [Accommodation services](https://www.nottingham.ac.uk/studentservices/services/accommodation.aspx)
+  * 学生としてUniversity of Nottinghamに入学される方は、こちらをチェックしてください。キャンパス内のAccomodation、沢山あってよいです。
 
-### [Accommodation Services](https://www.nottingham.ac.uk/student-living/contact.aspx)
- 
-> Opening Hours
-> Our office is open from 9am-5pm Monday-Thursday and 9am-4:00pm Friday. Our office is located B05 Portland Building.
 
-> You can contact us on Live Chat between 9.30am and 4.30pm Monday to Thursday, and 9.30am and 4.00pm Friday.
+## 不動産エージェントの利用
+というわけでどうするか。プロにお任せする、というのが早いです。英国には日本語で対応してくれる不動産エージェントが何社かあります。ただし、その多くはロンドンに拠点を構え、ロンドン（とロンドン通勤圏）の物件しか取り扱っていないところがほとんどです。地方までカバーしてくれる会社はほとんどありません。私が知る限り唯一地方対応してくれたのが、[JTECPC](https://jtecpc.co.uk/)という会社です。事前に候補物件を提示してくれ、内見のコーディネートと立ち会い、契約から入居までのサポートをしてくれます。内見、入居には現地立会もしてくれます。
+手数料は[こちらの基本料金プランページ](https://jtecpc.co.uk/new_price_since_2023_feb/)を参照ください。基本的にスタンダードでの契約になると思います。価格は日本の不動産賃貸手数料とあまり変わらないかと思います。
 
-> Contact us via our Enquiry Form
-> If you have any further queries, please complete our enquiry form below. We aim to respond within 2 days. If you have any queries about Hall maintenance or facilites or you need residential support through our ResX teams you can find contact details on our Hall Contacts page. 
+## 居住エリアの選定
+不動産エージェントを利用するとしても、ある程度相場感を掴んでおく必要はありますし、希望をある程度伝えないと物件選びは非効率になります。大学に通いやすく、安全で、買い物に便利、、、、、と色々な条件があると思いますが、まずは居住エリアを絞っていかないと家賃水準すら把握できません。
 
-> Book an appointment
-> Want to speak to an Accommodation Officer face to face via teams? You can book an online teams appointment with an officer below:
-[Accommodation Services](https://outlook.office365.com/book/AccommodationServices@UniofNottm.onmicrosoft.com/)
-> *Please do not book a teams meeting with a Gmail account as we are experiencing issues with these email addresses receiving invites*
+### 大学に便利な立地情報の収集
+University of Nottinghamに限らず、多くの大学は新入生や新規着任者向けに様々な情報提供をしています。このページではUniversity of Nottinghamの情報提供についてまとめます。
+Nottinghamのバス運賃は、中心地域内だと£3.50/回。一日上限£5.50。日本円がこれだけ安いと、バスすら乗りたくなくなりますね。実際私は片道40分程かけて歩いて通ってます。街が綺麗なので散歩がてら歩くのは苦ではないのですが、天気が悪い日や大きな荷物を運ぶ日もあるわけですから、公共交通機関利用を前提とした利便性を無視するわけにはいかないと思います。単純に直線距離で近いだけではなく、バスやトラムを便利に使えるかというポイントは抑えておきたいです。
 
-# 大学構内の生活情報
-* [Staying safe and responsible](https://www.nottingham.ac.uk/student-living/accommodation/staying-safe-and-responsible.aspx)
-  * Phone: 0115 748 7600 for Welcome Point and Residential Experience
-  * Phone: 0115 951 3557 (extension 13557) for Security Reception
-  * Phone: 0115 951 3013 (ext 13013 internally) for 24 Hour Security Control
-  * Phone: 0115 951 8888 (ext 18888 internally) for Emergencies ONLY
+* [Getting around](https://www.nottingham.ac.uk/student-living/accommodation/getting-around.aspx)
+  * Univeristy of Nottinghamが公開しているこのページは大学に通うのに便利な場所や、キャンパスに向かっているバス路線などが記載されています。このページで有用なのはどのバス路線やトラムの駅が便利かという情報でしょう。下の方にある "Not living on campus?"セクションが有用かと。
+  * University of Nottinghamは複数のキャンパスで構成されており、かつそれぞれなかなか広いので、どのキャンパスのどの建物に通うことになるかで最適な立地が変わります。ですので、物件探しを焦って行うのは止めたほうが良いですね。なお、School of Computer ScienceやBusiness SchoolがあるJubilee Campusには、[29系統](https://www.nctx.co.uk/services/NCT/29?date=2025-04-11&direction=inbound)がキャンパス内のバス停まで乗り入れてくれるので、理想的にはこのバスの沿線に住むのが楽ちんではあります。なお、バスの本数はむちゃくちゃ多いです。時刻表を事前に確認することなく家や研究室を出ても大丈夫。首都圏・京阪神の中心部レベルの運行頻度。トラムも日中は4分に1本来るので、本当に便利。高いけど、、、。
+  * その高いバスの運賃は、ZONE A (ノッティンガム中心部内) でGBP3.00、つまりJPY600弱(2025年4月時点)片道にかかる。クレカのコンタクトレスだと、1日あたりの上限金額はGBP5.50、だいたいJPY1,100くらい[(市交通局のContactlessの料金表)](https://www.nctx.co.uk/contactless)、となると、結局徒歩通学になるんですよね。私は2025年4月の時点では片道40分弱かけて徒歩通学してます。
+
+### 物件の選定
+日本だとSuumoやMiniMiniなど不動産情報サイトで物件の目星をつけてから、不動産仲介店の店舗を巡るという手順で探すと思うのですが、英国でもほぼ同様の手順を踏むことになります。英国版Suumoのようなサイトには以下のようなものがあります。
+* [Rightmove](https://www.rightmove.co.uk/)
+* [Zoopla ](https://www.zoopla.co.uk/)
+
+
+## 契約に必要な手続き
+### Share codeの取得
+日本で不動産契約をする際には住民票や、時には戸籍謄本を求められることもあるかもしれません。基本的にはコンビニや役所の窓口に行って発行し、原本提出になると思うのですが、イギリスはShare codeという番号をUKVIアカウントを基に発行することとなります。要は、日本に居ながら発行可能です。詳細は
+JTECPCさんの[こちらのページ: イギリスeVisa導入後、ついに日本からシェアコードが発行できるようになった！！オンラインでイギリス（地方も含）賃貸物件探しの仲介JTECPC\.CO\.UK](https://jtecpc.co.uk/evisa-share-code-in-japan/) を参照ください。
+
+### 契約締結
+これも日本に居ながらオンラインで実行可能です。契約書もオンラインで閲覧可能。PDFダウンロードして、きっちり内容を確認しましょう。
+
+
+## 引っ越し
+### 手段の選択
+家具付きの物件が見つかったなら、運び込む荷物はそれほど多くはなりません。ですので、ヤマト運輸や日通が提供するいわゆる単身パック/留学パックというパレット1枚のパッケージを用いるか、国際宅配便の2択というのが現実的なところになります。
+ただし単身パックや留学パックは、ロンドン以外はサービス提供外という場合があります。2025年度初頭の引っ越しという時期では、ヤマトも日通もNottinghamへのサービスは提供していませんでした。ので、必然的に国際宅配便ということになりました。
+国際宅配便は船便、航空便、EMSという種類があるのですが、引っ越しのような重量があるものを送る場合、船便とEMSの価格差が小さく、であればEMSで送ってしまおうということになりました。国際郵便各種の英国を含む[ヨーロッパ宛の料金表\(国際小包：第3地帯\)](https://www.post.japanpost.jp/int/charge/list/parcel3.html#)はこちら。
+
+### 送り状作成
+ヨーロッパ、というよりもEU加盟国宛に荷物をおくる際にはHSコードという送付物の分類コードを記載しておく必要がある。[(参照: 日本郵便Webページ「EU加盟国等宛て郵便物に関するHSコード類などの送信について)](https://www.post.japanpost.jp/int/ead/europe.html)。HSコードとは、国際貿易商品の名称および分類を世界的に統一する目的のために作られた6けたのコード番号であり、貨物を輸出入する際の品目分類に用いる輸出入統計品目番号[(日本郵便ウェブサイト)](https://www.post.japanpost.jp/intmypage/faq/047.html)なのですが、英国は2025年時点でEUを脱退したままであるため、HSコードの記載は不要です。ご安心ください。
+
+世界各国は税関が持ち込み禁止の品目を指定しています。EMSや引っ越しなどでもその規則は適応される場合がほとんどでしょう。日本郵便のウェブサイトには[英国](https://www.post.japanpost.jp/cgi-kokusai/nonmailable_articles.php?cid=74)を始めとして各国の持ち込み規制品リストが載っていますので、該当するものは送らないようにしましょう。
+
+EMSは手書きの送り状で送付することができず、あらかじめ[国際郵便マイページサービス](https://www.int-mypage.post.japanpost.jp/mypage/M010000.do?request_locale=ja)で送り状を作成し、パソコンからプリントアウトしなければなりません。これは荷物の点数には関係ないですので、郵便局に持ち込み発送する場合でも同様です。
+
+送り状には内容物を記載する欄があります。国をまたぐということは、輸出入するということなので、日本と英国の税関に対する申告なわけです。短期渡航時に通関通る前に持ち込み荷物の数を申告すると思いますが、それと同じです。輸出入禁止品目があれば止められますし、品数や価格が基準以上になると関税支払いが必要となります。引っ越し業者に依頼すると通関手続きを委託できるので、関税支払いもおまかせできるのですが、EMSの場合は英国側の通関が課税対象と判定すると国内輸送が止められ、関税支払い手続きを取る必要が出てきます。これがメールでURLが送られてきて、クレカで支払い、、程度のお気軽なものであればよいのですが、そうは問屋が卸さないのです。まず通関で何日も時間がかかり、場合によっては国内輸送を担当するPercel Forceの集配センターに遠路はるばる出向いて現金支払いする、なんて面倒が発生するかもしれません。つまり「金で解決できない面倒」が大量発生します。
+
+このような事態を避けるためには、間違っても「ギフト」とは書かない、とか金額をきちんと小さく記入する、ということが必要です。「金額を小さく」という表記に引っかかった方もいらっしゃるかもしれませんが、これは偽証申告しろ、と言っているわけではありません。服や雑貨などの多くは、渡航までに使ってきた中古品ですよね。100円ショップなどで新たに購入したものも、包装や梱包を外すなどして詰め込むことになります。つまりそのまま市販できるようなものは、ほとんどないはずです。つまり多くの物品は購入時の価格よりも、大きく価値が下落しているはずなのです。何年も履いた靴下なんて、1足5円くらいにしかならない（それでも買ってくれる人はいないのでは、、、）はずです。その実勢価値を換算した価格を記入しましょう、ということなのです。ただ、実勢価格ベースで申請すると、事故発生時に支払われる保険額も小さくなりますので注意してください。とはいえ、そもそもEMSで高価なものを送ったらだめだと思います。高価なものは、ちゃんと自分で持ち込みましょう。
+
+ちなみにこのリストを作成する作業はものすごく大変です。[たぶん1箱を送るだけであろうこの方の苦労っぷりを参照ください。](https://ameblo.jp/perico0214/entry-12799823359.html) 私はGoogle Spreadsheetを使って入力内容を整理しましたが、本当に大変でした、、、。
+
+荷物でトラブルが起きるのは英国到着後です。英国側の税関で足止めされたり、国内配送業者でロストしたり、そして配送業者が家にたどり着けないというまさかの事態が普通に生じます。トラブル発生が防げないことを前提にするために、送り状に記載する電話番号は英国の番号であることが重要です。つまり、送り状作成の段階で、英国の携帯電話番号が必要なのです。というわけで、事前にAmazon.co.jpでgiffgaffのSIMを購入し、電話番号をゲットしておきましょう。日本ではAhamoを契約しているとか、他キャリアでもローミングで海外にいても電話を受けられる、と思っていると危険です。端末が物理的に英国にあろうと日本発行の電話番号への架電は、日本への国際電話扱いになります。業者によっては、かけてくれない、もしくはかけられない、ということが普通にあります。まずは英国の電話番号を取得し、あらゆる機会でその番号を記入しておくこと、これが見を助けます!
+
+### 箱詰めと箱ごとの内容物リスト作成、送り状のプリントアウト
+あらかじめ[国際郵便マイページサービス](https://www.int-mypage.post.japanpost.jp/mypage/M010000.do?request_locale=ja)で作成した送り状をプリントアウトしておきます。送り状は、発送者の控え、日本郵便の控え、英国に届く箱に貼り付けられるもの、領収書の紙等によって構成されるため、1箱あたり5枚くらいあったかな、と。これが10箱とかあると、普通にプリントアウトする紙の量は50枚になります。事前にプリンタ用紙とインクをちゃんと補充しておくのが重要です。私は夜中に近所のコンビニに走りました、、、、、。そして通関する、ということは各箱の中身と送り状の内容が一致しなければなりません。箱と送り状の対応がズレると、通関手続きでトラブルが生じるリスクが爆上がりし、かつどの荷物がどこにあるのかの追跡ができなくなってストレスも高まります。ので、箱と送り状=封入した中身の対応表を正確に作成しておく必要があります。この作業、思ったより時間がかかります。箱に荷物を入れ、その品目を送り状とスプレッドシートで作成する対応表に入力し、箱が全て埋まって風をした段階でプリントアウトするという作業をすると、1箱あたり1時間では到底足りません。10箱であれば、週末の1日が完全に潰れます。渡航前のドタバタにおいて、この時間を計算に入れないと様々なことが詰んでしまうので、きっちりスケジュールに入れておいてください。
+
+### 集荷
+EMSを発送する方法は、郵便局に持ち込むか、集荷してもらうかの2択です。長期滞在する方は、箱の数もそれなりになるので基本は集荷をお願いすることになるかと思います。集荷には、郵便局(日本郵便)の、[Web集荷サービス](https://mgr.post.japanpost.jp/C20P02Action.do?ssoparam=0&termtype=2) を使うのがストレスがなくて良いですね。送り状のプリントアウトは、家庭用のインクジェットプリンタならそれなりに時間がかかります。そして10箱送るなら50枚ほどの紙が打ち出され、箱ごとに分類されていなければなりません。つまり集荷当日にプリントアウトすると集荷職員の方の来訪に間に合わなくなります。プリントアウトと、箱ごとに分けて整理しておく作業は必ず集荷前日までに終わらせてください。
+
+集荷職員の方は、箱に貼り付ける送り状封入袋を持ってきてくれます。集荷作業は、日本郵便の控えを抜き、発送者控えにスタンプを押して発送者に渡し、送り状と箱の組み合わせを確認し、紙を二つ折りして封入し、箱に貼り付ける、という流れで行われます。工程数が意外に多いですね。つまり1箱5分じゃ終わりません。10箱あると下手すれば2時間かかると思ってください。集荷は2時間コースです。そして細かな時間指定はできません。となると集荷当日は1日がかりの拘束となりますので、スケジュールをちゃんと組んでおいてください。
+
+### 配達
+
+#### 状況調査
+#####  日本国内
+荷物の状況は、送り状に記載された番号を用いて日本郵便の[配送状況確認検索](https://www.post.japanpost.jp/receive/tracking/)から調べることができます。また、EMSの送り状作成時にメール通知サービスのチェックを入れておけば、段階ごとにメールで通知が届き、ウェブページで配達状況を確認することができます。
+ちなみにトラブルが生じたとき、郵便局側の問い合わせ窓口は [こちらのページにある電話番号](https://www.post.japanpost.jp/int/question/tel.html)になるのですが、そこに表示されているのは **フリーダイヤル、もしくはナビダイヤルの番号** なので、 "For English"という番号も含め、海外からはかかりません。郵便局側が通話料を負担するというフリーダイヤルを用意するのはいいのですが、海外からの国際電話を受け付けられない、といいますか、受け付ける番号が全く用意されていないというのはどういうことなのでしょうか？なお、[お問い合わせ・よくあるご質問 ](https://www.post.japanpost.jp/int/question/index.html)、 [国際郵便に関する電話問合せ窓口情報ページ](https://www.post.japanpost.jp/int/question/tel.html)など、全て国際電話を受け付けない番号ばかりなのです。
+そして、事故調査を発送日から6ヶ月以内なら受け付けてくれるのですが、調査依頼はなんと、[発送した郵便局への書面提出](https://www.post.japanpost.jp/int/question/18.html)によって行います。つまり、海外にいると調査依頼すらかけられないということです。そして発送した郵便局、つまり集配局の電話窓口の番号は全てフリーダイヤル、もしくはナビダイヤルです。ここにもかけることはできません。
+海外から国際電話をかけられる郵便局の番号、、、ということで最終的にたどり着いたのが、小さな非集配局の番号にかけることです。こちらはフリーダイヤル・ナビダイヤルではない普通の電話番号を公開しているので、こちらに問い合わせると集配局につないでもらえ（ることも）あります。非集配局の番号はGoogle地図検索などで探し出せます。
+
+##### 英国内
+このサービス、英国に到着してからも情報を通知してくれますが、さすがに日本郵便が直接手掛けているわけではない領域なので、ちょっとしたタイムラグや、そもそも情報の不足や間違いなども避けることができなくなります。
+英国国内に荷物が届くと、そこからは日本郵便から管轄が現地運輸会社の[Parcelforce](https://www.parcelforce.com/)に変わります。
+ここからはParcelforce の[Track Your Parcelページ](https://www.parcelforce.com/track-trace)にお問い合わせ番号を入力して状況を確認することとなります。
+
+[Parcelforce](https://www.parcelforce.com/)の[Redelivery](https://www.parcelforce.com/redelivery#/)から再配達依頼を申し込む事ができます。土曜は配達可能ですが、追加料金12GBPがかかります。平日であれば再配達には追加料金はかからないです。その際に現地電話番号が必要となります。
+なのですが、[Redelivery](https://www.parcelforce.com/redelivery#/)のページは **不在票に記載されたTracking Number** の入力が求められます。配達員が家を見つけられないなどで「不在票がない」場合、日本郵便でのEMS発送時に発行されたお問い合わせ番号を入力しても「該当の荷物無し」という表示になってしまいます。それでも再配達申し込みはできるのですが、Tracking Number無しに適切な取り扱いをしてくれるかはいささか心もとありません。
+
+そのため、併せて[Retail Help Form](https://www.parcelforce.com/help-form)のページから問合せをすることになります。ここのフォームの "Parcel number" 欄は"EN + 9桁の数字  + JP"という日本郵便でのEMS発送時に発行されたお問い合わせ番号も対応してくれるので、多少は安心かもしれません。私はそれなりの時間をかけて、箱の数=お問い合わせ番号の数だけ問合せを登録し続けました。これだけでも、そこそこ時間がかかりますね、、、。
+
+
+なおParcelforceのウェブサイトには[電話による問合せに関する情報のページがありますが](https://www.parcelforce.com/contact-us/speak-to-an-agent)、電話をかけてみると目的に応じたウェブサイトに誘導されるだけで全くオペレーターが出てきません。
+### 前の住民宛てに届く郵便物
+賃貸物件に住むと、この物件に以前居住していた片宛の郵便物がしょっちゅう届きます。それらは、宛名の近くに **"Return to sender – addressee no longer lives here"** と書いて、ポストに投函するとRoyal Mailがよしなにしてくれます。
+
+## 在留届のオンライン届け出
+3ヶ月以上の海外在留者は、旅券法、つまり法律で在留届の提出が義務付けられています。不安定な世界情勢でもありますので、在留届は渡航が決まったら速やかに提出しましょう。できれば住居が決まり、住所も最初から登録できればよいのですが、渡航時点で住所が決まっていない場合でも、英国の携帯電話番号を登録しておくと安心感が違うと思います。
+オンラインの届け出は、[こちらのページ](https://www.ezairyu.mofa.go.jp/RRnet/index.html)から。
+
+## 公共料金・税金など
+イギリスでは、電気・ガス・水道は基本的に自由化されていて、様々な事業者がサービスを提供しています。ですので、契約する事業者を選ぶことができます。契約の際には、以下のような情報が必要となります。
+
+### Council tax
+現地で住民登録はしていない、居住は賃貸物件、でも住民税的なものを行政に支払わなければならないのが英国です。住んだら払う、それがCouncil taxです。概要は[こちらのサイト](https://ume-workfrom-kaigai.com/counciltax/)を見ていただくのが手っ取り早いと思います。単身で住むなら割引があるなど、税額に影響する要素も書かれていますので、まずは読んでください。
+税額、つまりバンドのランクを調べるには、英国政府の[Check your Council Tax band](https://www.gov.uk/council-tax-bands)にアクセスし、"Start now"ボタンをクリックし、次のページにあるフォームに郵便番号を入力して検索すると郵便番号の地域内にある全ての居住単位のリストが出てきます。リストの中から契約した物件の住所を見つけてクリックすると、どのバンドとして登録されているか=Council taxの金額が表示されます。
+
+イギリスはこの居住単位のリストがありとあらゆるサービスで活用されていて、様々なサービス、といいますか賃貸契約締結の時からこのデータベースを活用するわけですが、全居住単位のバンドがウェブで全面公開、というのはなかなかすごいな、と思います。
+
+自分が居住する物件のバンドがわかったら（わかってなくても）taxを支払うための手続きをします。この手続きは[市役所のウェブサイト](https://www.nottinghamcity.gov.uk/information-for-residents/council-tax/manage-your-council-tax/)からオンラインでできます。
+
+手続きの際には市役所のウェブサイトから[My account](https://myaccount.nottinghamcity.gov.uk/)を作成します。
+
+納入は銀行引き落とし= Direct Debitで行うのがおすすめです。Direct Debitは現地銀行の口座を開かなくても、Wiseが対応しています。携帯電話とWiseの契約、これだけは早めにしておきましょう。
+
+### 電気・ガス・
+
+
+### 水道
+[Find Your Supplier \| Water UK](https://www.water.org.uk/customers/find-your-supplier)
+
